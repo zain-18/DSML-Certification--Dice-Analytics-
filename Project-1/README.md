@@ -1,16 +1,20 @@
-# Heart Disease Prediction
+# Price Prediction
  
  ### *Dataset* ###
- * Heart Disease dataset (kaggle)
+ * Provided by Instructor
+ 
+ ### *Libraries* ###
+ * pandas
+ * Matplotlib
+ * Seaborn
+ * Sklearn
  
  ### *Supervised Learning Algo's* ###
- * Logistic Regressiom
- * Decision Tree
- * Random Forest
- * Ada Boost
- * XG Boost
+ * Linear Regression
+ * Polynomial Regression (Increased Degree)
  
- ### *Hyper parameter Tuning* ###
- * Grid Search CV
- * Random Search CV
+ 
+ ### *Feature Selection* ###
+ * Recursive feature selection Technique
+
  
